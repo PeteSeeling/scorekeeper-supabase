@@ -26,3 +26,4 @@ export function renderTeam(name, score) {
 
     return teamDiv;
 }
+
